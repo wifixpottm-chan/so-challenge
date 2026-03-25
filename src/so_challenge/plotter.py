@@ -1,0 +1,1 @@
+"""Visualization module for the so-challenge project."""
